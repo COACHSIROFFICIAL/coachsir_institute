@@ -117,3 +117,30 @@ footer h3{
 color:#ff9800;
 margin-bottom:8px;
 }
+.section{
+margin-top:25px;
+}
+
+.section h2{
+text-align:center;
+color:#ff9d00;
+margin-bottom:15px;
+font-size:30px;
+font-weight:bold;
+}
+
+.card-box{
+background:#1d3b68;
+padding:22px;
+border-radius:15px;
+box-shadow:0 8px 20px rgba(0,0,0,.25);
+line-height:1.8;
+font-size:17px;
+color:#eee;
+transition:.3s;
+}
+
+.card-box:hover{
+transform:translateY(-5px);
+box-shadow:0 12px 25px rgba(255,157,0,.25);
+}
