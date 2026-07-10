@@ -160,23 +160,3 @@ transition:.3s;
 transform:translateY(-5px);
 box-shadow:0 12px 25px rgba(255,157,0,.25);
 }
-.save-btn{
-display:block;
-width:100%;
-margin-top:15px;
-padding:16px;
-text-align:center;
-text-decoration:none;
-font-size:18px;
-font-weight:bold;
-background:#6f42c1;
-color:white;
-border-radius:12px;
-transition:.3s;
-}
-
-.save-btn:hover{
-transform:translateY(-3px);
-box-shadow:0 10px 20px rgba(0,0,0,.3);
-}
-
